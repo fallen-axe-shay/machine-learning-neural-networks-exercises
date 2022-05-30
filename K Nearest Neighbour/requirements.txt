@@ -1,0 +1,4 @@
+scipy
+pandas
+seaborn
+scikit-learn
