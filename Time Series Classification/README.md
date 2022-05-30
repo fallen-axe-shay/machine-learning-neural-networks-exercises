@@ -1,2 +1,2 @@
 # Time Series Classification
-Time Series Classification and Feature Extraction.
+Time Series Classification and Feature Extraction on multisensor data.
